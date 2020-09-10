@@ -1,0 +1,1 @@
+javac -cp junit-3.8.1.jar:. HelloTest.java
